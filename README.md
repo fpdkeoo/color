@@ -5,7 +5,7 @@
 
 ![image.png](color/image.png)
 
-使用了`tkinter`，`numpy`，`matplotlib` 三種函式庫
+使用了`tkinter`，`numpy`，`matplotlib`，`webbrowser` 四種函式庫
 
 # 選項介紹
 
