@@ -41,55 +41,18 @@
 
 紅色
 
-![image.png](color/image%203.png)
-
-洋紅色
-
-![image.png](color/image%204.png)
-
-綠色
-
-![image.png](color/image%205.png)
-
-青色
-
-![image.png](color/image%206.png)
-
-藍色
-
-![image.png](color/image%207.png)
-
-灰階
-
-![image.png](color/image%208.png)
-
-黃色
-
-![image.png](color/image%209.png)
+![image.png](color/c1.jpg)
 
 方向選擇
 
 橫
 
-![image.png](color/image%2010.png)
-
-直
-
-![image.png](color/image%2011.png)
+![image.png](color/c2.jpg)
 
 漸層選擇
 
-淺到深
+![image.png](color/c3.jpg)
 
-![image.png](color/image%2012.png)
-
-![image.png](color/image%2013.png)
-
-深到淺
-
-![image.png](color/image%2014.png)
-
-![image.png](color/image%2015.png)
 
 位置選擇
 
